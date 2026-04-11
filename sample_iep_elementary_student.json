@@ -1,0 +1,498 @@
+{
+  "meta": {
+    "selpa": "Mid Cities SELPA",
+    "iepDate": "2025-03-15",
+    "meetingType": "Revisión del Plan",
+    "additionalPurpose": null,
+    "nextAnnualReview": "2026-03-15",
+    "lastReevaluation": "2023-03-10",
+    "nextReevaluation": "2026-03-10",
+    "effectiveStartDate": "2025-03-15"
+  },
+  "student": {
+    "legalName": "García, Sofia Elena",
+    "suffix": null,
+    "dob": "2015-04-22",
+    "age": "10 year(s) 1 month",
+    "grade": "05 Fifth grade",
+    "districtId": "2001099999",
+    "ssid": "5675000000",
+    "nativeLanguage": "eng English",
+    "isEL": false,
+    "isReclassified": false,
+    "interpreterNeeded": false,
+    "hispanicEthnicity": true,
+    "ethnicityBlank": false,
+    "race1": "700 White",
+    "race2": null,
+    "race3": null,
+    "raceBlank": false,
+    "gender": "Female"
+  },
+  "parents": [
+    {
+      "name": "Rosa García & Miguel García",
+      "address": "12345 Maple Ave #101",
+      "city": "Bellflower",
+      "state": "CA",
+      "zip": "90706",
+      "homePhone": "562-555-1234",
+      "workPhone": null,
+      "cellPhone": "562-555-5678",
+      "email": "rosa.garcia@email.com; miguel.garcia@email.com"
+    },
+    {
+      "name": null,
+      "address": null,
+      "city": null,
+      "state": null,
+      "zip": null,
+      "homePhone": null,
+      "workPhone": null,
+      "cellPhone": null,
+      "email": null
+    }
+  ],
+  "district": {
+    "responsibleDistrict": "Bellflower Unified",
+    "residenceSchool": "Lincoln Elementary School",
+    "serviceDistrict": "Bellflower Unified",
+    "attendanceSchool": "Lincoln Elementary School",
+    "allServicesAtResidenceSchool": true
+  },
+  "eligibility": {
+    "primaryDisability": "Specific Learning Disability (SLD)",
+    "secondaryDisability": "Speech or Language Impairment (SLI)",
+    "notEligible": false,
+    "exitingSpecialEducation": false,
+    "disabilityImpactDescription": "Student displays significant deficits in the areas of conceptualization, expression, visual and attention processing which impact her academic abilities requiring special education intervention. Speech and language impairment limits student involvement and participation in the general education curriculum."
+  },
+  "initialPlacementOnly": {
+    "receivedCEIS": false,
+    "initialReferralDate": "2021-01-15",
+    "referralInitiatedBy": "Student Study Team/Intervention Team",
+    "parentConsentDate": "2021-02-20",
+    "initialEligibilityDate": "2021-04-01"
+  },
+  "presentLevels": {
+    "strengthsInterests": "Student is very kind and sweet. She enjoys coming to the RSP class and always has a smile. She is well liked by her peers. Student enjoys drawing and doing crafts. She enjoys attending sporting events with her family.",
+    "parentConcerns": "Father stated that he was concerned with student's writing and memorization of math multiplication facts.",
+    "sbac": {
+      "elaNotApplicable": false,
+      "elaOverall": "Estándar No Cumplido",
+      "elaReadListening": "Por Debajo del Estándar",
+      "elaWritingResearch": "Por Debajo del Estándar",
+      "mathNotApplicable": false,
+      "mathOverall": "Estándar No Cumplido",
+      "mathConceptsProcedures": "Por Debajo del Estándar",
+      "mathPractices": "Por Debajo del Estándar"
+    },
+    "caa": {
+      "notApplicable": true,
+      "ela": null,
+      "math": null,
+      "science": null
+    },
+    "elpac": {
+      "notApplicable": true,
+      "initialELPAC": false,
+      "summativeELPAC": false,
+      "overallScore": null,
+      "overallPerformanceLevel": null,
+      "oralLanguageScore": null,
+      "writtenLanguageScore": null,
+      "listening": null,
+      "speaking": null,
+      "reading": null,
+      "writing": null
+    },
+    "elpacAlternate": {
+      "initialAlternate": false,
+      "summativeAlternate": false,
+      "overallScore": null,
+      "overallPerformanceLevel": null
+    },
+    "physicalFitnessTest": "N/A",
+    "otherEvaluationData": "(School Psychologist 2023) The Wechsler Intelligence Scale for Children-V (WISC-V) was administered. Student's general cognitive ability is within the very low range of intellectual functioning as measured by the FSIQ. Processing Speed composite score fell within the average range. Verbal Comprehension, Visual Spatial, Fluid Reasoning, and Working Memory composite scores are within the extremely low range. (School Psychologist 2023) Based on the Woodcock-Johnson IV Tests of Achievement (WJ IV), student's academic abilities range from the average to borderline range. Student has a history of multiple academic challenges as indicated by school records and parent and teacher interviews.",
+    "hearing": { "date": "2022-09-27", "result": "Pasó" },
+    "visionNearSighted": { "date": "2022-09-27", "result": "Pasó" },
+    "visionFarSighted": { "date": "2022-09-27", "result": "Pasó" },
+    "preAcademicSkills": "RSP 2025: Student is able to decode familiar and one-to-two syllable words with fluency. She has shown improvement in reading multi-syllabic and unfamiliar words using strategies such as breaking words into syllables, recognizing base words, and applying knowledge of prefixes and suffixes. In comprehension, student is able to give a simple one to two sentence summary about a grade-level passage read to her. She can state the primary character and setting but struggles with remembering additional details. In writing, with guidance and support, student is able to edit for conventions. She uses some transition words and needs prompting to include a closing statement. Student has memorized multiplication facts for 1s, 2s, 3s, 4s, 5s, and 10s. She uses fingers to count on and solve 6s. She does not know her division facts.",
+    "communicationDevelopment": "SLP 2025: Student is a sweet and compliant student. She has met her goal for identifying similarities and differences between items. She is now able to state whether two items are similar or different in their characteristics with an average of 80% accuracy. She demonstrates the ability to describe similarities based on categories, appearance, and materials with minimal support. Per teacher report, student is reserved and less likely to share or initiate conversations with peers during class discussions.",
+    "motorDevelopment": "Student has beautiful penmanship and is a wonderful artist. She participates in P.E. and outdoor activities. There are no concerns in this area.",
+    "socialEmotionalBehavior": "2025: Student is generally a happy girl. She follows the rules at school and has many friends. Teacher reports that student is sensitive and sometimes cries when she does not understand something.",
+    "vocational": "2025: Student has good attendance. She is well organized and responsible. She works slowly and methodically which can impact her ability to finish classwork.",
+    "dailyLivingSkills": "2025: Student is usually well groomed. She can navigate the school grounds and take care of personal needs independently.",
+    "health": "No health concerns at this time.",
+    "hasIndividualHealthPlan": false,
+    "areasOfNeed": "language/pragmatics, reading comprehension, writing production, and math facts"
+  },
+  "goals": [
+    {
+      "goalNumber": "1 RSP",
+      "areaOfNeed": "Key Ideas and Details",
+      "baselineLevel": "Previous comprehension goal was partially met. Currently, student is able to sequence events beginning, middle, and end from a story read to her. She can state a character and setting. She continues to have difficulty answering 'how', 'why', and 'when' questions. A new goal was created for comprehension.",
+      "annualGoal": "By March 2026, when given a grade-level, teacher read story, student will give at least two comparisons and two contrasts drawing from two characters, settings, or events in the text using a previously created thinking map in 2 out of 3 trials as measured by teacher observation/charted records.",
+      "alignsToGeneralCurriculum": true,
+      "stateStandard": "5.RL.3",
+      "addressesOtherNeeds": false,
+      "linguisticallyAppropriate": false,
+      "isTransitionGoal": false,
+      "transitionType": null,
+      "responsiblePerson": "RSP Teacher",
+      "progressReports": [
+        {
+          "reportNumber": 1,
+          "date": "2025-11-12",
+          "summary": "Student is able to give two comparisons from two characters and settings in a grade-level text in 2 out of 3 trials. She can give one contrast from 2 characters in 2 out of 3 trials.",
+          "comments": "Student enjoys coming to RSP. She participates, gives good effort, and uses her time efficiently."
+        },
+        { "reportNumber": 2, "date": null, "summary": null, "comments": null },
+        { "reportNumber": 3, "date": null, "summary": null, "comments": null }
+      ],
+      "annualReviewDate": null,
+      "goalMet": null,
+      "annualReviewComments": null,
+      "shortTermObjectives": []
+    },
+    {
+      "goalNumber": "2 RSP",
+      "areaOfNeed": "Writing/Editing",
+      "baselineLevel": "Previous goal was met to edit writing for conventions, transition words, and a closing statement. Student is able to strengthen her writing by planning and revising with guidance and support at 70% accuracy. She continues to need support and prompting.",
+      "annualGoal": "By March 2026, with guidance and support, student will develop and strengthen her writing as needed by planning, revising, and editing for capitalization, spelling, use of transition words, at least one detail or reason to support an idea, and a closing statement with 75% accuracy in 2 out of 3 trials as measured by student work samples/teacher observation.",
+      "alignsToGeneralCurriculum": true,
+      "stateStandard": "4.W.5",
+      "addressesOtherNeeds": false,
+      "linguisticallyAppropriate": false,
+      "isTransitionGoal": false,
+      "transitionType": null,
+      "responsiblePerson": "RSP Teacher",
+      "progressReports": [
+        {
+          "reportNumber": 1,
+          "date": "2025-11-12",
+          "summary": "Student can edit her writing with guidance and support. She uses capitalization, transition words, and can provide one detail with approximately 50% accuracy. She is not able to edit for spelling or a closing statement.",
+          "comments": "Student enjoys coming to RSP. She participates, gives good effort, and uses her time efficiently."
+        },
+        { "reportNumber": 2, "date": null, "summary": null, "comments": null },
+        { "reportNumber": 3, "date": null, "summary": null, "comments": null }
+      ],
+      "annualReviewDate": null,
+      "goalMet": null,
+      "annualReviewComments": null,
+      "shortTermObjectives": []
+    },
+    {
+      "goalNumber": "3 RSP",
+      "areaOfNeed": "Multiplication/Division",
+      "baselineLevel": "Currently, student has memorized her multiplication facts for 1s, 2s, 3s, 4s, 5s, and 10s. She does not know her division facts.",
+      "annualGoal": "By March 2026, student will multiply and divide within 100 using strategies such as the relationship between multiplication and division with 70% accuracy in 2 out of 3 trials as measured by student work samples.",
+      "alignsToGeneralCurriculum": true,
+      "stateStandard": "3.OA.7",
+      "addressesOtherNeeds": false,
+      "linguisticallyAppropriate": false,
+      "isTransitionGoal": false,
+      "transitionType": null,
+      "responsiblePerson": "RSP Teacher",
+      "progressReports": [
+        {
+          "reportNumber": 1,
+          "date": "2025-11-12",
+          "summary": "Student knows her multiplication and division facts for numbers less than 5 and for her 10s with 70% accuracy.",
+          "comments": "Student enjoys coming to RSP. She participates, gives good effort, and uses her time efficiently."
+        },
+        { "reportNumber": 2, "date": null, "summary": null, "comments": null },
+        { "reportNumber": 3, "date": null, "summary": null, "comments": null }
+      ],
+      "annualReviewDate": null,
+      "goalMet": null,
+      "annualReviewComments": null,
+      "shortTermObjectives": []
+    },
+    {
+      "goalNumber": "SL#1",
+      "areaOfNeed": "Pragmatic Language",
+      "baselineLevel": "Currently, student responds accurately to teacher prompts during classroom and small-group discussions, but she does not typically initiate comments or volunteer to share independently.",
+      "annualGoal": "By March 2026, student will independently contribute to small-group discussions by initiating and/or responding with a complete sentence in 4 out of 5 opportunities across three consecutive sessions, as measured by SLP/SLPA data collection, teacher report, and/or observation.",
+      "alignsToGeneralCurriculum": true,
+      "stateStandard": "CCSS.ELA-Literacy.SL.5.1",
+      "addressesOtherNeeds": false,
+      "linguisticallyAppropriate": false,
+      "isTransitionGoal": false,
+      "transitionType": null,
+      "responsiblePerson": "SLP/SLPA",
+      "progressReports": [
+        {
+          "reportNumber": 1,
+          "date": "2025-11-14",
+          "summary": "With verbal prompts, student responds to a peer's question or comment using a complete sentence in 4 out of 5 opportunities across three sessions.",
+          "comments": "Student is doing great sharing and initiating comments/questions during speech."
+        },
+        {
+          "reportNumber": 2,
+          "date": "2026-02-27",
+          "summary": "With visual or sentence starters, student can contribute an idea or opinion during small-group discussions in 3 out of 5 opportunities across three sessions.",
+          "comments": null
+        },
+        { "reportNumber": 3, "date": null, "summary": null, "comments": null }
+      ],
+      "annualReviewDate": null,
+      "goalMet": null,
+      "annualReviewComments": null,
+      "shortTermObjectives": [
+        {
+          "targetDate": "2025-11-01",
+          "objective": "With verbal prompts, student will respond to a peer's question or comment using a complete sentence in 4 out of 5 opportunities across three sessions."
+        },
+        {
+          "targetDate": "2026-03-01",
+          "objective": "With visual or sentence starters, student will contribute an idea or opinion during small-group discussions in 3 out of 5 opportunities across three sessions."
+        },
+        {
+          "targetDate": "2026-05-01",
+          "objective": "Student will demonstrate increased participation by volunteering to share in small-group discussions at least once per session in 3 consecutive sessions."
+        }
+      ]
+    }
+  ],
+  "specialFactors": {
+    "needsAssistiveTechnology": false,
+    "atRationale": null,
+    "needsLowFrequencyEquipment": false,
+    "lowFrequencyDetails": null,
+    "blindVisualImpairmentConsiderations": "n/a",
+    "deafHearingImpairmentConsiderations": "n/a",
+    "isELStudent": false,
+    "eldPrimaryLanguageSupport": null,
+    "eldSupportStrategies": [],
+    "eldProgramLocation": null,
+    "eldProgramType": null,
+    "behaviorImpactsLearning": false,
+    "behaviorDescription": null,
+    "behaviorInterventions": null,
+    "behaviorGoalInIEP": false,
+    "bipAttached": false
+  },
+  "esyEligibility": {
+    "age": 10,
+    "grade": "05 Fifth grade",
+    "q1_unableToRecoupSkills": false,
+    "q1_area": null,
+    "q2_lossOfSkillsDuringBreaks": false,
+    "q2_area": null,
+    "q3_criticalLearningStage": false,
+    "q3_skills": null,
+    "q4_canMaintainWithoutESY": true,
+    "q4_skill": null,
+    "q5_requiresESY": false
+  },
+  "fapeServices": {
+    "servicesConsidered": "The IEP team discussed General Education with Speech and Language, Resource Specialist Program (RSP), and Special Day Class (SDC) Mild/Moderate. In order to address student's needs, the IEP team recommends the least restrictive environment in the RSP setting with Speech and Language.",
+    "lreDescription": "The team determined that the least restrictive environment to address the student's needs is attending general education with RSP and DIS speech and language support. RSP and DIS speech and language services is the least restrictive environment and provides FAPE.",
+    "programAdaptationsNeeded": true,
+    "adaptations": [
+      {
+        "description": "Check for understanding by having student restate or paraphrase information",
+        "startDate": "2025-03-15",
+        "endDate": "2026-03-15",
+        "location": "Academic Settings"
+      },
+      {
+        "description": "Visual Cues",
+        "startDate": "2025-03-15",
+        "endDate": "2026-03-15",
+        "location": "Academic Settings"
+      },
+      {
+        "description": "Flexible seating to ensure auditory and visual access",
+        "startDate": "2025-03-15",
+        "endDate": "2026-03-15",
+        "location": "Academic Settings"
+      },
+      {
+        "description": "Reduce distractions to the student",
+        "startDate": "2025-03-15",
+        "endDate": "2026-03-15",
+        "location": "Academic Settings"
+      }
+    ],
+    "programModificationsNeeded": false,
+    "modifications": [],
+    "otherSupportsNeeded": true,
+    "otherSupports": [
+      {
+        "description": "Consultation between General Education Teacher and RSP Teacher",
+        "supports": "Personnel",
+        "startDate": "2025-03-15",
+        "endDate": "2026-03-15",
+        "frequency": "monthly",
+        "duration": "15 min",
+        "location": "email, classroom"
+      }
+    ],
+    "specialEdServices": [
+      {
+        "service": "Language and Speech",
+        "startDate": "2025-03-15",
+        "endDate": "2026-03-14",
+        "provider": "District of Service",
+        "deliveryModel": "Group",
+        "isSecTransition": false,
+        "minutesPerSession": 30,
+        "sessionsPerWeek": 1,
+        "totalMinutesPerWeek": 30,
+        "frequency": "Weekly",
+        "location": "Service provider location",
+        "comments": "All speech-language services will be provided when student is in attendance."
+      },
+      {
+        "service": "Specialized Academic Instruction",
+        "startDate": "2025-03-15",
+        "endDate": "2026-03-15",
+        "provider": "District of Service",
+        "deliveryModel": "Group",
+        "isSecTransition": false,
+        "minutesPerSession": 60,
+        "sessionsPerWeek": 5,
+        "totalMinutesPerWeek": 300,
+        "frequency": "Weekly",
+        "location": "Regular classroom/public day school",
+        "comments": null
+      }
+    ],
+    "specialEdTransportation": false,
+    "transportationNotes": "Student does not require transportation at this time.",
+    "esyQualifies": false,
+    "esyRationale": "The student does not qualify for ESY at this time because she will be able to recoup any lost skills at a rate similar to her general education peers."
+  },
+  "placementForm": {
+    "physicalEducation": "General",
+    "allServicesAtResidenceSchool": true,
+    "preschoolProgramEnvironment": null,
+    "preschoolTenHoursOrMore": null,
+    "programEnvironment": "Regular Classroom/Public Day School",
+    "percentTimeOutsideRegularClass": 20,
+    "percentTimeInsideRegularClass": 80,
+    "nonParticipationReason": "During speech and RSP because student requires small group specialized instruction to have full access to the curriculum.",
+    "otherAgencies": {
+      "ccs": false,
+      "regionalCenter": false,
+      "probation": false,
+      "rehabilitation": false,
+      "dss": false,
+      "countyMentalHealth": false,
+      "other": null
+    },
+    "promotionRequirements": "District",
+    "parentProgressNotification": "Cada cuatro meses",
+    "progressReportMethod": "Informe de Resumen de Progreso",
+    "transitionActivities": "n/a"
+  },
+  "stateAssessments": {
+    "ela": {
+      "gradeLevel": "11",
+      "withAccommodations": true,
+      "sbacDesignatedSupportsIntegrated": true,
+      "integratedSupportsDetail": "Masking, Text-to-Speech items (ELA)",
+      "sbacDesignatedSupportsNonIntegrated": true,
+      "nonIntegratedSupportsDetail": "Separate Setting",
+      "sbacAdaptationsIntegrated": false,
+      "sbacAdaptationsNonIntegrated": false,
+      "sbacAccessibilitySupport": false
+    },
+    "math": {
+      "gradeLevel": "11",
+      "withAccommodations": true,
+      "sbacDesignatedSupportsIntegrated": true,
+      "integratedSupportsDetail": "Masking, Text-to-Speech stimuli and items",
+      "sbacDesignatedSupportsNonIntegrated": true,
+      "nonIntegratedSupportsDetail": "Separate Setting",
+      "sbacAdaptationsIntegrated": false,
+      "sbacAdaptationsNonIntegrated": true,
+      "nonIntegratedAdaptationsDetail": "100s Number Table, Multiplication Table",
+      "sbacAccessibilitySupport": false
+    },
+    "science": {
+      "gradeLevel": "11",
+      "withAccommodations": true,
+      "castDesignatedSupportsIntegrated": true,
+      "integratedSupportsDetail": "Masking, Text-To-Speech items and stimuli",
+      "castDesignatedSupportsNonIntegrated": true,
+      "nonIntegratedSupportsDetail": "100s number table, Multiplication Table, Separate Setting",
+      "castAdaptationsIntegrated": false,
+      "castAdaptationsNonIntegrated": false,
+      "castAccessibilitySupport": false
+    },
+    "takingAlternateAssessment": false,
+    "physicalFitness": {
+      "gradeApplicable": true,
+      "withoutAccommodations": true,
+      "withAccommodations": false,
+      "withModifications": false
+    },
+    "elpac": {
+      "notApplicable": true
+    }
+  },
+  "transition": {
+    "studentInvited": false,
+    "agenciesInvited": false,
+    "agenciesDetails": null,
+    "studentParticipationMethod": null,
+    "ageAppropriateTransitionAssessmentsUsed": false,
+    "assessmentResultsDescription": null,
+    "postsecondaryEducationGoal": null,
+    "postsecondaryEmploymentGoal": null,
+    "postsecondaryIndependentLivingGoal": null,
+    "graduationRequirements": null,
+    "courseOfStudyMultiYear": false,
+    "creditsCompleted": null,
+    "creditsPending": null,
+    "leadingTo": null,
+    "expectedCompletionDate": null,
+    "alternativePathwayEligible": false,
+    "majorityOfAgeNotified": false,
+    "majorityOfAgeNotifiedBy": null,
+    "majorityOfAgeNotifiedDate": null,
+    "underGuardianship": false,
+    "appropriatePostsecondaryMeasuresExist": false,
+    "postsecondaryGoalsUpdatedWithAnnualIEP": false,
+    "transitionServicesIncluded": false,
+    "annualGoalsRelatedToTransition": false,
+    "transitionGoals": []
+  },
+  "emergencyPlan": {
+    "specializedAcademicInstruction": {
+      "interactiveClassMeetingsOnline": true,
+      "scheduledAppointmentsWithTeacher": true,
+      "otherMethods": []
+    },
+    "transitionServices": "N/A",
+    "esyServices": "N/A",
+    "supplementaryAidsServices": {}
+  },
+  "bip": {
+    "bipDate": null,
+    "basedOn": [],
+    "behaviorDescription": null,
+    "frequency": null,
+    "intensity": null,
+    "duration": null,
+    "reportedBy": null,
+    "observedBy": null,
+    "antecedents": null,
+    "environmentalSupports": null,
+    "functionalFactors": {
+      "tangible": null,
+      "escapeProblem": null,
+      "sensoryIssue": null,
+      "attention": null
+    },
+    "ferbReplacementBehavior": null,
+    "teachingStrategies": null,
+    "reinforcementProcedures": null,
+    "reinforcerSelectionBasis": null,
+    "responseToProblematicBehavior": [],
+    "behaviorGoalInIEP": false
+  }
+}

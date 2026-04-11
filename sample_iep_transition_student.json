@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "selpa": "Mid Cities SELPA",
+    "iepDate": "2025-09-10",
+    "meetingType": "Revisión del Plan",
+    "additionalPurpose": "Transición",
+    "nextAnnualReview": "2026-09-10",
+    "lastReevaluation": "2024-05-15",
+    "nextReevaluation": "2027-05-15",
+    "effectiveStartDate": "2025-09-10"
+  },
+  "student": {
+    "legalName": "Torres, Diego Alejandro",
+    "suffix": null,
+    "dob": "2008-11-03",
+    "age": "16 year(s) 10 months",
+    "grade": "11 Eleventh grade",
+    "districtId": "2001088888",
+    "ssid": "5675111111",
+    "nativeLanguage": "spa Spanish",
+    "isEL": true,
+    "isReclassified": false,
+    "interpreterNeeded": true,
+    "hispanicEthnicity": true,
+    "ethnicityBlank": false,
+    "race1": "700 White",
+    "race2": null,
+    "race3": null,
+    "raceBlank": false,
+    "gender": "Male"
+  },
+  "parents": [
+    {
+      "name": "Carmen Torres",
+      "address": "9876 Oak Street #205",
+      "city": "Bellflower",
+      "state": "CA",
+      "zip": "90706",
+      "homePhone": "562-555-9876",
+      "workPhone": "562-555-4321",
+      "cellPhone": "562-555-6789",
+      "email": "carmen.torres@email.com"
+    },
+    {
+      "name": null,
+      "address": null,
+      "city": null,
+      "state": null,
+      "zip": null,
+      "homePhone": null,
+      "workPhone": null,
+      "cellPhone": null,
+      "email": null
+    }
+  ],
+  "district": {
+    "responsibleDistrict": "Bellflower Unified",
+    "residenceSchool": "Jefferson High School",
+    "serviceDistrict": "Bellflower Unified",
+    "attendanceSchool": "Jefferson High School",
+    "allServicesAtResidenceSchool": true
+  },
+  "eligibility": {
+    "primaryDisability": "Specific Learning Disability (SLD)",
+    "secondaryDisability": null,
+    "notEligible": false,
+    "exitingSpecialEducation": false,
+    "disabilityImpactDescription": "Student demonstrates significant deficits in reading fluency and written expression which impact his ability to access grade-level content in all academic areas. Deficits in phonological processing and working memory require specialized academic instruction and extended time accommodations to make meaningful educational progress."
+  },
+  "initialPlacementOnly": {
+    "receivedCEIS": false,
+    "initialReferralDate": "2018-09-12",
+    "referralInitiatedBy": "Student Study Team/Intervention Team",
+    "parentConsentDate": "2018-10-01",
+    "initialEligibilityDate": "2018-11-15"
+  },
+  "presentLevels": {
+    "strengthsInterests": "Diego is a motivated and hardworking young man. He has a strong interest in automotive technology and enjoys hands-on learning activities. He participates actively in class when given appropriate supports and has a positive relationship with his teachers and peers.",
+    "parentConcerns": "Mother expressed concern about Diego's ability to pass the high school exit requirements and his readiness for vocational training after graduation. She is also concerned about his reading level relative to his peers.",
+    "sbac": {
+      "elaNotApplicable": false,
+      "elaOverall": "Estándar No Cumplido",
+      "elaReadListening": "Por Debajo del Estándar",
+      "elaWritingResearch": "Por Debajo del Estándar",
+      "mathNotApplicable": false,
+      "mathOverall": "Estándar Casi Cumplido",
+      "mathConceptsProcedures": "Cerca del Estándar",
+      "mathPractices": "Por Debajo del Estándar"
+    },
+    "caa": {
+      "notApplicable": true,
+      "ela": null,
+      "math": null,
+      "science": null
+    },
+    "elpac": {
+      "notApplicable": false,
+      "initialELPAC": false,
+      "summativeELPAC": true,
+      "overallScore": "1423",
+      "overallPerformanceLevel": "Moderately Developed",
+      "oralLanguageScore": "1480 / Moderately Developed",
+      "writtenLanguageScore": "1365 / Somewhat Developed",
+      "listening": "1492",
+      "speaking": "1468",
+      "reading": "1380",
+      "writing": "1350"
+    },
+    "elpacAlternate": {
+      "initialAlternate": false,
+      "summativeAlternate": false,
+      "overallScore": null,
+      "overallPerformanceLevel": null
+    },
+    "physicalFitnessTest": "N/A",
+    "otherEvaluationData": "(School Psychologist 2024) The Wechsler Adult Intelligence Scale-IV (WAIS-IV) was administered. Diego's general cognitive ability is within the low average range of intellectual functioning as measured by the FSIQ. Verbal Comprehension and Processing Speed composite scores fell within the average range. Working Memory and Perceptual Reasoning scores are within the low average range. (School Psychologist 2024) Based on the Woodcock-Johnson IV Tests of Achievement (WJ IV), Diego's academic abilities range from the borderline to low average range. Reading fluency and written expression are areas of significant weakness relative to cognitive ability, consistent with a Specific Learning Disability profile.",
+    "hearing": { "date": "2024-09-05", "result": "Pasó" },
+    "visionNearSighted": { "date": "2024-09-05", "result": "Pasó" },
+    "visionFarSighted": { "date": "2024-09-05", "result": "Pasó" },
+    "preAcademicSkills": "RSP 2025: Diego reads at approximately a 6th grade level. He can decode familiar multisyllabic words but struggles with unfamiliar vocabulary in content-area texts. He benefits from pre-teaching vocabulary and graphic organizers. In writing, Diego can produce a structured paragraph with a topic sentence and supporting details with moderate support. He struggles with sentence variety, mechanics, and organizing multi-paragraph essays independently. In math, Diego demonstrates competency in basic operations and can solve multi-step word problems with visual supports.",
+    "communicationDevelopment": "No concerns noted in expressive or receptive language. Diego communicates effectively in both Spanish and English in social contexts. Academic language in English remains an area of continued development per ELD assessment results.",
+    "motorDevelopment": "No concerns in this area. Diego participates in P.E. and demonstrates age-appropriate gross and fine motor skills.",
+    "socialEmotionalBehavior": "2025: Diego is generally well-regulated and gets along well with peers and staff. He can become frustrated when academic tasks feel overwhelming but responds well to redirection and breaks. No significant behavioral concerns at this time.",
+    "vocational": "2025: Diego has strong attendance and punctuality. He is enrolled in the district's Automotive Technology pathway and has expressed interest in pursuing a career as an automotive technician. He demonstrates good work habits and task persistence in structured vocational settings.",
+    "dailyLivingSkills": "2025: Diego is independent in all daily living skills. He uses public transportation independently and manages his personal needs without support.",
+    "health": "No health concerns at this time.",
+    "hasIndividualHealthPlan": false,
+    "areasOfNeed": "reading fluency, written expression, academic language development (ELD)"
+  },
+  "goals": [
+    {
+      "goalNumber": "1 RSP",
+      "areaOfNeed": "Reading Fluency",
+      "baselineLevel": "Currently, Diego reads connected text at approximately 95 words per minute with 88% accuracy on 6th grade level passages. He struggles with fluency on grade-level (11th grade) texts and requires repeated reading and previewing strategies to access complex content-area material.",
+      "annualGoal": "By September 2026, when given a 6th-7th grade level reading passage, Diego will read aloud with at least 110 words per minute and 92% accuracy in 3 out of 4 trials as measured by curriculum-based measurement and teacher data.",
+      "alignsToGeneralCurriculum": true,
+      "stateStandard": "11-12.RF.4",
+      "addressesOtherNeeds": false,
+      "linguisticallyAppropriate": true,
+      "isTransitionGoal": true,
+      "transitionType": "Educación/Entrenamiento",
+      "responsiblePerson": "RSP Teacher",
+      "progressReports": [
+        {
+          "reportNumber": 1,
+          "date": "2025-12-10",
+          "summary": "Diego is reading at 102 words per minute with 90% accuracy on 6th grade passages. Progress is on track.",
+          "comments": "Diego is motivated and uses previewing strategies consistently."
+        },
+        {
+          "reportNumber": 2,
+          "date": "2026-03-05",
+          "summary": "Diego is reading at 107 words per minute with 91% accuracy. Approaching goal.",
+          "comments": null
+        },
+        { "reportNumber": 3, "date": null, "summary": null, "comments": null }
+      ],
+      "annualReviewDate": null,
+      "goalMet": null,
+      "annualReviewComments": null,
+      "shortTermObjectives": []
+    },
+    {
+      "goalNumber": "2 RSP",
+      "areaOfNeed": "Written Expression",
+      "baselineLevel": "Currently, Diego can write a structured paragraph with a topic sentence and 2-3 supporting details with moderate prompting. He does not independently produce multi-paragraph essays. He omits transition words and struggles with sentence variety and conclusion statements.",
+      "annualGoal": "By September 2026, given a writing prompt, Diego will independently produce a 3-paragraph essay that includes an introduction, at least two supporting paragraphs with transitions, and a conclusion with 70% accuracy on a teacher-developed rubric in 2 out of 3 trials as measured by student work samples.",
+      "alignsToGeneralCurriculum": true,
+      "stateStandard": "11-12.W.2",
+      "addressesOtherNeeds": false,
+      "linguisticallyAppropriate": true,
+      "isTransitionGoal": true,
+      "transitionType": "Educación/Entrenamiento",
+      "responsiblePerson": "RSP Teacher",
+      "progressReports": [
+        {
+          "reportNumber": 1,
+          "date": "2025-12-10",
+          "summary": "Diego can produce a 2-paragraph response with a topic sentence and one supporting detail with minimal prompting, scoring approximately 55% on the rubric.",
+          "comments": "Diego benefits from graphic organizer supports prior to writing."
+        },
+        { "reportNumber": 2, "date": null, "summary": null, "comments": null },
+        { "reportNumber": 3, "date": null, "summary": null, "comments": null }
+      ],
+      "annualReviewDate": null,
+      "goalMet": null,
+      "annualReviewComments": null,
+      "shortTermObjectives": []
+    }
+  ],
+  "specialFactors": {
+    "needsAssistiveTechnology": true,
+    "atRationale": "Student benefits from text-to-speech software to access grade-level content given reading fluency deficits. Google Read&Write and audio versions of textbooks are recommended.",
+    "needsLowFrequencyEquipment": false,
+    "lowFrequencyDetails": null,
+    "blindVisualImpairmentConsiderations": "n/a",
+    "deafHearingImpairmentConsiderations": "n/a",
+    "isELStudent": true,
+    "eldPrimaryLanguageSupport": true,
+    "eldSupportStrategies": [
+      "Clarificación Oral de instrucciones en el idioma principal",
+      "Glosarios ilustrados en el idioma principal",
+      "Combinar texto/palabras clave traducidas al idioma principal"
+    ],
+    "eldProgramLocation": "Educación General",
+    "eldProgramType": "Programa de Inmersión Estructurada en el Idioma Inglés (SEI)",
+    "behaviorImpactsLearning": false,
+    "behaviorDescription": null,
+    "behaviorInterventions": null,
+    "behaviorGoalInIEP": false,
+    "bipAttached": false
+  },
+  "esyEligibility": {
+    "age": 16,
+    "grade": "11 Eleventh grade",
+    "q1_unableToRecoupSkills": true,
+    "q1_area": "Reading fluency — student demonstrated measurable regression in oral reading fluency following summer break per CBM data collected at start of school year.",
+    "q2_lossOfSkillsDuringBreaks": false,
+    "q2_area": null,
+    "q3_criticalLearningStage": false,
+    "q3_skills": null,
+    "q4_canMaintainWithoutESY": false,
+    "q4_skill": "Reading fluency gains are not maintained across extended breaks without instructional support.",
+    "q5_requiresESY": true
+  },
+  "fapeServices": {
+    "servicesConsidered": "The IEP team discussed General Education with RSP support, Special Day Class (SDC) Mild/Moderate, and a non-public school placement. In order to address Diego's needs in the least restrictive environment, the team recommends continued RSP support within the general education setting.",
+    "lreDescription": "The team determined that the least restrictive environment is the general education setting with RSP pull-out support for specialized academic instruction. Diego benefits from access to the general education curriculum and interaction with non-disabled peers for the majority of his school day.",
+    "programAdaptationsNeeded": true,
+    "adaptations": [
+      {
+        "description": "Extended time (1.5x) on tests and assignments",
+        "startDate": "2025-09-10",
+        "endDate": "2026-09-10",
+        "location": "All academic settings"
+      },
+      {
+        "description": "Preferential seating near instruction",
+        "startDate": "2025-09-10",
+        "endDate": "2026-09-10",
+        "location": "All academic settings"
+      },
+      {
+        "description": "Directions read aloud or provided in written format",
+        "startDate": "2025-09-10",
+        "endDate": "2026-09-10",
+        "location": "All academic settings"
+      },
+      {
+        "description": "Access to text-to-speech assistive technology",
+        "startDate": "2025-09-10",
+        "endDate": "2026-09-10",
+        "location": "All academic settings"
+      }
+    ],
+    "programModificationsNeeded": false,
+    "modifications": [],
+    "otherSupportsNeeded": true,
+    "otherSupports": [
+      {
+        "description": "Consultation between General Education Teachers and RSP Teacher",
+        "supports": "Personnel",
+        "startDate": "2025-09-10",
+        "endDate": "2026-09-10",
+        "frequency": "monthly",
+        "duration": "20 min",
+        "location": "email, classroom"
+      }
+    ],
+    "specialEdServices": [
+      {
+        "service": "Specialized Academic Instruction",
+        "startDate": "2025-09-10",
+        "endDate": "2026-09-10",
+        "provider": "District of Service",
+        "deliveryModel": "Group",
+        "isSecTransition": false,
+        "minutesPerSession": 50,
+        "sessionsPerWeek": 5,
+        "totalMinutesPerWeek": 250,
+        "frequency": "Weekly",
+        "location": "Regular classroom/public day school",
+        "comments": null
+      }
+    ],
+    "specialEdTransportation": false,
+    "transportationNotes": "Student does not require special education transportation.",
+    "esyQualifies": true,
+    "esyRationale": "Student qualifies for ESY based on documented regression in reading fluency following the prior summer break. CBM data collected at the start of the current school year showed a loss of approximately 12 words per minute compared to end-of-year data, which exceeds the expected regression rate for peers with similar disabilities."
+  },
+  "placementForm": {
+    "physicalEducation": "General",
+    "allServicesAtResidenceSchool": true,
+    "preschoolProgramEnvironment": null,
+    "preschoolTenHoursOrMore": null,
+    "programEnvironment": "Regular Classroom/Public Day School",
+    "percentTimeOutsideRegularClass": 17,
+    "percentTimeInsideRegularClass": 83,
+    "nonParticipationReason": "During RSP because student requires small group specialized instruction in reading and writing to access the general education curriculum.",
+    "otherAgencies": {
+      "ccs": false,
+      "regionalCenter": false,
+      "probation": false,
+      "rehabilitation": true,
+      "dss": false,
+      "countyMentalHealth": false,
+      "other": null
+    },
+    "promotionRequirements": "District",
+    "parentProgressNotification": "Cada cuatro meses",
+    "progressReportMethod": "Informe de Resumen de Progreso",
+    "transitionActivities": "Student will participate in a job shadow at a local automotive shop in spring 2026 as part of the district's transition services program."
+  },
+  "stateAssessments": {
+    "ela": {
+      "gradeLevel": "11",
+      "withAccommodations": true,
+      "sbacDesignatedSupportsIntegrated": true,
+      "integratedSupportsDetail": "Text-to-Speech items (ELA), Masking",
+      "sbacDesignatedSupportsNonIntegrated": true,
+      "nonIntegratedSupportsDetail": "Separate Setting, Extended Time",
+      "sbacAdaptationsIntegrated": false,
+      "sbacAdaptationsNonIntegrated": false,
+      "sbacAccessibilitySupport": false
+    },
+    "math": {
+      "gradeLevel": "11",
+      "withAccommodations": true,
+      "sbacDesignatedSupportsIntegrated": true,
+      "integratedSupportsDetail": "Text-to-Speech stimuli and items, Masking",
+      "sbacDesignatedSupportsNonIntegrated": true,
+      "nonIntegratedSupportsDetail": "Separate Setting, Extended Time",
+      "sbacAdaptationsIntegrated": false,
+      "sbacAdaptationsNonIntegrated": false,
+      "nonIntegratedAdaptationsDetail": null,
+      "sbacAccessibilitySupport": false
+    },
+    "science": {
+      "gradeLevel": "11",
+      "withAccommodations": true,
+      "castDesignatedSupportsIntegrated": true,
+      "integratedSupportsDetail": "Text-to-Speech items and stimuli, Masking",
+      "castDesignatedSupportsNonIntegrated": true,
+      "nonIntegratedSupportsDetail": "Separate Setting, Extended Time",
+      "castAdaptationsIntegrated": false,
+      "castAdaptationsNonIntegrated": false,
+      "castAccessibilitySupport": false
+    },
+    "takingAlternateAssessment": false,
+    "physicalFitness": {
+      "gradeApplicable": false,
+      "withoutAccommodations": false,
+      "withAccommodations": false,
+      "withModifications": false
+    },
+    "elpac": {
+      "notApplicable": false,
+      "summativeELPAC": true,
+      "designatedSupportsIntegrated": true,
+      "integratedSupportsDetail": "Text-to-Speech",
+      "designatedSupportsNonIntegrated": true,
+      "nonIntegratedSupportsDetail": "Separate Setting"
+    }
+  },
+  "transition": {
+    "studentInvited": true,
+    "agenciesInvited": true,
+    "agenciesDetails": "Department of Rehabilitation (DOR) representative invited; did not attend.",
+    "studentParticipationMethod": "Asistió al IEP",
+    "ageAppropriateTransitionAssessmentsUsed": true,
+    "assessmentResultsDescription": "Transition Planning Inventory (TPI) and student interest survey were completed. Results indicate strong interest in automotive technology, preference for hands-on learning, and desire for post-secondary vocational training rather than a 4-year university. Student expressed a goal of becoming a certified automotive technician.",
+    "postsecondaryEducationGoal": "After high school, Diego will enroll in an automotive technology certificate program at a community college or vocational training center.",
+    "postsecondaryEmploymentGoal": "After completing training, Diego will obtain employment as an automotive technician or in a related skilled trade.",
+    "postsecondaryIndependentLivingGoal": "Diego will live independently and manage his personal finances and daily needs without support.",
+    "graduationRequirements": "District standard diploma requirements",
+    "courseOfStudyMultiYear": true,
+    "creditsCompleted": "180",
+    "creditsPending": "50",
+    "leadingTo": "Diploma",
+    "expectedCompletionDate": "2027-06-15",
+    "alternativePathwayEligible": false,
+    "majorityOfAgeNotified": true,
+    "majorityOfAgeNotifiedBy": "RSP Teacher / LEA Representative",
+    "majorityOfAgeNotifiedDate": "2025-09-10",
+    "underGuardianship": false,
+    "appropriatePostsecondaryMeasuresExist": true,
+    "postsecondaryGoalsUpdatedWithAnnualIEP": true,
+    "transitionServicesIncluded": true,
+    "annualGoalsRelatedToTransition": true,
+    "transitionGoals": [
+      {
+        "postSecondaryStatement": "After high school, Diego will enroll in an automotive technology certificate program at a community college.",
+        "transitionServiceCode": "Automotive Technology pathway enrollment, college application support",
+        "activitiesToSupportGoal": "Student will complete FAFSA application with RSP teacher support; attend community college information night; visit automotive technology program at local community college.",
+        "communityExperiences": "Job shadow at local automotive shop, spring 2026",
+        "connectedToAnnualGoalNumber": "1 RSP, 2 RSP",
+        "relatedServices": "RSP academic support for college application writing",
+        "responsiblePerson": "RSP Teacher, School Counselor"
+      },
+      {
+        "postSecondaryStatement": "After completing training, Diego will obtain employment as an automotive technician.",
+        "transitionServiceCode": "Work-based learning, job readiness training",
+        "activitiesToSupportGoal": "Student will participate in district work experience program; complete career interest and aptitude inventory; develop a resume with RSP support.",
+        "communityExperiences": "Work experience placement in automotive setting",
+        "connectedToAnnualGoalNumber": "2 RSP",
+        "relatedServices": "DOR referral for vocational rehabilitation services",
+        "responsiblePerson": "Transition Coordinator, RSP Teacher"
+      },
+      {
+        "postSecondaryStatement": "Diego will live independently and manage his personal finances.",
+        "transitionServiceCode": "Independent living skills instruction",
+        "activitiesToSupportGoal": "Student will complete a financial literacy unit within RSP setting; participate in independent living skills workshop.",
+        "communityExperiences": "N/A",
+        "connectedToAnnualGoalNumber": null,
+        "relatedServices": null,
+        "responsiblePerson": "RSP Teacher"
+      }
+    ]
+  },
+  "emergencyPlan": {
+    "specializedAcademicInstruction": {
+      "interactiveClassMeetingsOnline": true,
+      "scheduledAppointmentsWithTeacher": true,
+      "otherMethods": []
+    },
+    "transitionServices": "IGUAL QUE ARRIBA",
+    "esyServices": "IGUAL QUE ARRIBA",
+    "supplementaryAidsServices": {}
+  },
+  "bip": {
+    "bipDate": null,
+    "basedOn": [],
+    "behaviorDescription": null,
+    "frequency": null,
+    "intensity": null,
+    "duration": null,
+    "reportedBy": null,
+    "observedBy": null,
+    "antecedents": null,
+    "environmentalSupports": null,
+    "functionalFactors": {
+      "tangible": null,
+      "escapeProblem": null,
+      "sensoryIssue": null,
+      "attention": null
+    },
+    "ferbReplacementBehavior": null,
+    "teachingStrategies": null,
+    "reinforcementProcedures": null,
+    "reinforcerSelectionBasis": null,
+    "responseToProblematicBehavior": [],
+    "behaviorGoalInIEP": false
+  }
+}

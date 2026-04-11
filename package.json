@@ -1,0 +1,28 @@
+{
+  "name": "spanish-iep-pdf-renderer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "render:elementary": "tsx scripts/test-render.ts sample_iep_elementary_student.json output_elementary.pdf",
+    "render:transition": "tsx scripts/test-render.ts sample_iep_transition_student.json output_transition.pdf"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^147.0.0",
+    "next": "^15.3.1",
+    "pdf-lib": "^1.17.1",
+    "puppeteer-core": "^24.7.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "@types/react": "^19.1.2",
+    "pdfjs-dist": "^4.10.38",
+    "puppeteer": "^24.7.1",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  }
+}
