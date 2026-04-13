@@ -5,6 +5,28 @@ import type { IEPData } from '@/lib/types';
 /** Allow enough time for Chromium cold start + PDF on Vercel (adjust per plan). */
 export const maxDuration = 60;
 
+/** Must stay below `maxDuration` so we can return JSON before the platform kills the function. */
+const RENDER_DEADLINE_MS = 58_000;
+
+class RenderTimeoutError extends Error {
+  constructor() {
+    super('PDF generation exceeded the time limit.');
+    this.name = 'RenderTimeoutError';
+  }
+}
+
+async function withRenderDeadline<T>(promise: Promise<T>, ms: number): Promise<T> {
+  let timeoutId: ReturnType<typeof setTimeout> | undefined;
+  const deadline = new Promise<never>((_, reject) => {
+    timeoutId = setTimeout(() => reject(new RenderTimeoutError()), ms);
+  });
+  try {
+    return await Promise.race([promise, deadline]);
+  } finally {
+    if (timeoutId !== undefined) clearTimeout(timeoutId);
+  }
+}
+
 const REQUIRED_KEYS: (keyof IEPData)[] = [
   'meta', 'student', 'parents', 'district', 'eligibility',
   'presentLevels', 'goals', 'specialFactors', 'fapeServices',
@@ -32,7 +54,7 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    const pdfBuffer = await renderIEP(data);
+    const pdfBuffer = await withRenderDeadline(renderIEP(data), RENDER_DEADLINE_MS);
 
     const studentName = data.student.legalName.replace(/[^a-zA-Z0-9áéíóúñÁÉÍÓÚÑ, ]/g, '');
     const filename = `IEP_${studentName}_${data.meta.iepDate}.pdf`;
@@ -46,6 +68,17 @@ export async function POST(request: NextRequest) {
       },
     });
   } catch (err) {
+    if (err instanceof RenderTimeoutError) {
+      console.error('Render timeout (deadline exceeded)');
+      return NextResponse.json(
+        {
+          error:
+            'PDF generation took too long. The document may be very large; try again later or reduce content.',
+          code: 'RENDER_TIMEOUT',
+        },
+        { status: 504 }
+      );
+    }
     const message = err instanceof Error ? err.message : 'Unknown error';
     console.error('Render error:', message);
     return NextResponse.json(
